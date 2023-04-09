@@ -1,0 +1,8 @@
+.event-container{
+    display: flex;
+    align-items: center;
+}
+
+.event-cover{
+    height: 540px !important;
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+.swiper {
+    width: 85vw;
+margin:0 auto;
+    height: 350px;
+  
+  }
+.details-btn{
+    font-family:poppins;
+    font-weight:500;
+    color:white;
+}
+@media (max-width: 767px) {
+    .swiper{
+        height:110vh
+    }
+   .swiper-slide{
+       padding: 0;
+   }
+}
